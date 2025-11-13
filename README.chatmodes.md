@@ -18,7 +18,7 @@ To Install:
 
 | Chat Mode Name | Install in VS Code | Install in VS Code Insiders | Description |
 |---------------|--------------------|-----------------------------|-------------|
-| WordPress WooCommerce Plugin Expert | [Install](#) | [Install](#) | Expert assistant for WordPress and WooCommerce plugin development, architecture, and best practices. |
+| WordPress WooCommerce Plugin Expert | [Install](vscode://github.com/leoadhemartan/VS-Code-Copilot-Agents/blob/main/WordPress-WooCommerce-Plugin-Expert.chatmode.md) | [Install](vscode-insiders://github.com/leoadhemartan/VS-Code-Copilot-Agents/blob/main/WordPress-WooCommerce-Plugin-Expert.chatmode.md) | Expert assistant for WordPress and WooCommerce plugin development, architecture, and best practices. |
 
 ---
 
